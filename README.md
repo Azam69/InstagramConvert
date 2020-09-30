@@ -1,3 +1,4 @@
 # InstagramConvert
 - media_id to shortcode
-- shortcode to media_id
+- and shortcode to media_id
+- Gunakan dengan bijak, jangan main main dengan permainan
