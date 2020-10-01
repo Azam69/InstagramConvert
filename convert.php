@@ -1,7 +1,7 @@
 <?php
 
 function convert($var){
-    $alphabet   = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_';
+    $alphabet   = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
     $url_prefix = 'https://www.instagram.com/p/';
     $url_suffix = '';
     $media_id   = 0;
@@ -35,6 +35,6 @@ function convert($var){
     }
 }
 
-echo convert("zhxXFsMnfn"); //Shortcode
+echo convert("zasF2R5asD");
 echo "\n";
-echo convert("928240089152255975_204353228"); //Media_ID
+echo convert("928240089152255975_204351212");
